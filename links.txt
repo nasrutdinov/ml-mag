@@ -1,0 +1,21 @@
+https://github.com/nasrutdinov/ml-mag - заготовки
+
+Курсы на stepik 
+
+https://stepik.org/course/4852/syllabus - Введение в Data Science и машинное обучение 
+https://stepik.org/course/8057/syllabus - Машинное обучение (основной курс на степике)
+
+Российская база знаний по машинному обучению 
+http://www.machinelearning.ru/
+
+Неформальный обзор задач машинного обучения 
+https://vas3k.ru/blog/machine_learning/ - неформальный обзор задач машинного обучения (с картинками и диаграммами)
+
+Учебники по пакетам Python  
+Вандер Плас Дж. - Python для сложных задач, наука о данных и машинное обучение
+
+Открытый курс OpenDataScience по машинному обучению mlcourse.ai
+
+https://www.youtube.com/watch?v=OAy96yiWohk - первая лекция 
+https://github.com/Yorko/mlcourse.ai  - материалы курса на github
+https://habr.com/ru/company/ods/blog/322626/ - курс на habr
