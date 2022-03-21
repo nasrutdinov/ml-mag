@@ -2,3 +2,4 @@
 Вариант 1. Воспользоваться сервисом https://downgit.github.io в строке указать имя папки (https://github.com/nasrutdinov/ml-mag/tree/master/tasks-2022)
 Вариант 2. Через клиент git. 
 Вариант 3. Скачать всю папку в виде zip архива (доступно на уровне ml-mag)
+Вариант 4. Установить плагин GitZip for github для chrome (https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn). Скачивать можно будет через вызов контектного меню
