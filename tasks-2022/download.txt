@@ -1,0 +1,3 @@
+Как скачать эту папку с файлами. 
+Вариант 1. Воспользоваться сервисом https://downgit.github.io в строке указать имя папки (https://github.com/nasrutdinov/ml-mag/tree/master/tasks-2022)
+Вариант 2. Через клиент git. 
