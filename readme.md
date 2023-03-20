@@ -3,6 +3,6 @@
 - task-1: Работа с pandas, построение графиков, очистка данных
 - task-2: Работа с pandas на примере датасета Титаник. 
 - task-3: Линейная регрессия. Проноз цены недвижимости Бостона. Нахождение главных признаков
-- task-4: Задача на классификацию. Применить метод логистическйо регрессии, метод SVM и метод knn. Сравнить качество предсказания. Датасет https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/versions/2?resource=download
+- task-4: Задача на классификацию. Применить метод логистической регрессии, метод SVM и метод knn. Сравнить качество предсказания. Датасет https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/versions/2?resource=download
 
 
