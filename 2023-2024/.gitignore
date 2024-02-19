@@ -1,0 +1,6 @@
+*.bak
+!*.ipynb
+!*.txt
+!*.md
+
+
